@@ -1,5 +1,7 @@
 # Flutter 快速上手
 
+https://github.com/ducafecat/flutter_quickstart_learn
+
 ## 视频地址
 
 https://video.ducafecat.tech/#/course_course_detail?uri=flutter-quickstart-learn
