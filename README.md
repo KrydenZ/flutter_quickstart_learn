@@ -19,10 +19,10 @@ https://video.ducafecat.tech/#/course_course_detail?uri=flutter-quickstart-learn
 ## 环境
 
 ```sh
-Flutter 2.10.5 • channel stable • https://github.com/flutter/flutter.git
-Framework • revision 5464c5bac7 (7 周前) • 2022-04-18 09:55:37 -0700
-Engine • revision 57d3bac3dd
-Tools • Dart 2.16.2 • DevTools 2.9.2
+Flutter 3.22.3 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision b0850beeb2 (10 months ago) • 2024-07-16 21:43:41 -0700
+Engine • revision 235db911ba
+Tools • Dart 3.4.4 • DevTools 2.34.3
 ```
 
 ## figma 设计稿
